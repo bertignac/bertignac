@@ -1,16 +1,24 @@
-## Hi there 👋
+# BERTIGNAC 🎮
 
-<!--
-**bertignac/bertignac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Performance Gaming. Built to Win.
 
-Here are some ideas to get you started:
+BERTIGNAC is a modern gaming brand focused on high-performance gear, hardware and accessories designed for players who demand more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Our Mission
+
+To create a complete gaming experience combining performance, technology and bold design.
+
+## 🎮 What We’re Building
+
+- Gaming PCs
+- Mechanical Keyboards
+- Gaming Mice
+- Headsets
+- Controllers
+- Gaming Monitors
+- Gaming Accessories
+- Online Store
+
+## 🚀 BERTIGNAC
+
+**PLAY HARDER. PERFORM BETTER.**
